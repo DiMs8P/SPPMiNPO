@@ -1,0 +1,3 @@
+C:/Users/dotad/CLionProjects/SPPMiNPO/cmake-build-debug/CMakeFiles/SPPMiNPO.dir
+C:/Users/dotad/CLionProjects/SPPMiNPO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dotad/CLionProjects/SPPMiNPO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
